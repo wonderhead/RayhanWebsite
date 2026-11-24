@@ -1,0 +1,55 @@
+{
+  "home": {
+    "tagline": "Actor · Stage & Screen",
+    "mediaButton": "Explore Media"
+  },
+  "about": {
+    "photoDescription": "Rayhan smiling alongside two collaborators on the Little Death set",
+    "photoCaption": "On the set of",
+    "productionTitle": "Little Death"
+  },
+  "reel": {
+    "video": "",
+    "poster": "little-death.jpg"
+  },
+  "gallery": [
+    {
+      "image": "mean-girls.jpg",
+      "title": "Mean Girls",
+      "alt": "Rayhan performing in a North Shore Mathletes costume during a musical number"
+    },
+    {
+      "image": "suit-on-set.jpg",
+      "title": "On set",
+      "alt": "Rayhan in a dark suit and glasses next to a castmate, with a camera visible behind them"
+    },
+    {
+      "image": "period-stage.jpg",
+      "title": "Period stage performance",
+      "alt": "Rayhan performing onstage in a period waistcoat"
+    },
+    {
+      "image": "little-death.jpg",
+      "title": "Little Death",
+      "alt": "Rayhan in a blue checked shirt against a brick wall, in a close-up from the film"
+    },
+    {
+      "image": "legally-blonde.jpg",
+      "thumbnailPosition": "center 4%",
+      "title": "Legally Blonde",
+      "alt": "Rayhan onstage in a blue blazer and striped sweater on a Harvard set"
+    },
+    {
+      "image": "red-hoodie-stage.jpg",
+      "thumbnailPosition": "center 27%",
+      "title": "Stage performance",
+      "alt": "Rayhan seated in a red hoodie, looking up and holding a small block"
+    }
+  ],
+  "contact": {
+    "intro": "For casting, auditions, and creative inquiries.",
+    "name": "David Gilbert",
+    "agency": "Zuri Agency",
+    "email": "david@zuriagency.com"
+  }
+}
