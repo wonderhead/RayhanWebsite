@@ -115,6 +115,4 @@ The supplied originals remain in the source photo folder. The site uses web-size
 | Media | `Photo Nov 22 2026, 1 14 52 PM.jpg` | A full-body stage still from Legally Blonde. |
 | Media | `Photo Mar 07 2024, 10 43 35 PM.jpg` | A seated stage portrait in a contemporary costume. |
 
-The original résumé `F0A8AF9B.pdf` is served under a descriptive filename.
-
 </details>
