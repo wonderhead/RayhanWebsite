@@ -15,7 +15,7 @@
   "gallery": [
     {
       "image": "mean-girls.jpg",
-      "title": "Mean Girls-Kevin G",
+      "title": "Mean Girls",
       "alt": "Rayhan performing in a North Shore Mathletes costume during a musical number"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "image": "period-stage.jpg",
-      "title": "Our Town-George",
+      "title": "Our Town",
       "alt": "Rayhan performing onstage in a period waistcoat"
     },
     {
@@ -36,13 +36,13 @@
     {
       "image": "legally-blonde.jpg",
       "thumbnailPosition": "center 4%",
-      "title": "Legally Blonde-Sundeep",
+      "title": "Legally Blonde",
       "alt": "Rayhan onstage in a blue blazer and striped sweater on a Harvard set"
     },
     {
       "image": "red-hoodie-stage.jpg",
       "thumbnailPosition": "center 27%",
-      "title": "Rabbit Hole-Jason",
+      "title": "Rabbit Hole",
       "alt": "Rayhan seated in a red hoodie, looking up and holding a small block"
     }
   ],
